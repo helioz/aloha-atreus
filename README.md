@@ -1,2 +1,2 @@
-# aloha-atreus
-This is the 'mobile' app. That companion NPC
+# atreus-client
+This is the 'mobile' app. That companion NPC for Project Atreus
